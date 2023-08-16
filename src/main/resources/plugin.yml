@@ -1,0 +1,11 @@
+name: Zagron
+version: '${project.version}'
+main: com.batmanatorul.zagron.Zagron
+api-version: 1.18
+depend: [ ProtocolLib ]
+authors: [ Batmanatorul ]
+description: With this plugin you can create custom items / blocks / everything
+
+commands:
+  test:
+    description: da
